@@ -2,5 +2,6 @@
 <body>
 <h2>Hello World!</h2><h3>Welcome to Jenkins<h3>
 <h1>Working with Git/Github training...</h1>
+<h3>Pull Repo on new chages and build on jenkins</h3>
 </body>
 </html>
